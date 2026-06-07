@@ -1,6 +1,0 @@
-.vscode/
-.codex/
-
-# Ignore local scratch/progress folders anywhere in the repo.
-extras/
-.extras/
